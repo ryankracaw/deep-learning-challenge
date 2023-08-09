@@ -1,6 +1,6 @@
-1. Overview of the analysis:
+1. Overview of the analysis: The Alphabet Soup foundation needed a tool to help them select applicants for funding. They need a binary classifier to predict whether applicants will be successful if funded by Alphabet Soup.
 
-2. Results:
+2. Results: I was able to achieve 75% accuracy by having three layers and keeping the 'NAME' column in.
 
 * Data Preprocessing
   * What variable(s) are the target(s) for your model?
@@ -18,4 +18,4 @@
   * What steps did you take in your attempts to increase model performance?
      * I added more layers and added additional hidden nodes in an attempt to achieve higher model accuracy. I also kept the 'NAME' column.
 
-3. Summary:
+3. Summary: In the four attempts I made the model was able to achieve the predictive target of 75%. I believe that with more tuning and adjusting a higher accuracy can still be obtainable. 
